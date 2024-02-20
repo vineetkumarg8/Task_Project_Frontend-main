@@ -4,6 +4,9 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### This Project is built using 
 *  React + Vite
 *  Postgre database
+### first run the the backend code then this frontend
+*  Run - npm install 
+*  then - npm run dev to start Vite
 ### There are three pages in this Project
 * sign up / sign in page
   ![Screenshot (6)](https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/e6e4e908-c4f1-4b13-9988-6a96ab43d47b)
