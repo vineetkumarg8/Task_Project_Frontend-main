@@ -2,11 +2,11 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ### This Project is built using 
-*  React + Vite
-*  Postgre database
+*  React + Vite (react version - 18.2.0 ,Vite version - 5.1.4)
+*  Postgre database (version - 16.2)
 ### first run the the backend code then this frontend
 *  Run - npm install 
-*  then - npm run dev to start Vite
+*  Then - npm run dev to start Vite
 ### There are three pages in this Project
 * sign up / sign in page
   ![Screenshot (6)](https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/e6e4e908-c4f1-4b13-9988-6a96ab43d47b)
