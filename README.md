@@ -1,6 +1,4 @@
 # React  + Vite
-[[]file:///C:/Users/vinee/Downloads/react.svg](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg) +
-[https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ### This Project is built using 
 *  React + Vite (react version - 18.2.0 ,Vite version - 5.1.4)
@@ -8,6 +6,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### first run the the backend code then this frontend
 *  Run - npm install 
 *  Then - npm run dev to start Vite
+### Video
+https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/d612f8fa-aece-47e5-8b51-b302e9de167f
 ### There are three pages in this Project
 * sign up / sign in page
   ![Screenshot (6)](https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/e6e4e908-c4f1-4b13-9988-6a96ab43d47b)
