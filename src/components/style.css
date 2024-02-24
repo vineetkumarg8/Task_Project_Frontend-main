@@ -18,16 +18,16 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 100px;
+    margin-left: 30px;
 }
 .locationBox {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 100px;
+    margin-right: 30px;
 }
 img{
-    width: 60px;
+    width: 40px;
 }
 .admin{
     width: 55px;
@@ -119,6 +119,7 @@ img{
     /* border: 2px solid black; */
     padding: 0;
     margin: 0;
+    overflow: scroll;
 }
 .leftinput {
     width: 30%;
@@ -159,6 +160,7 @@ img{
     font-size: 13px;
     font-weight: bolder;
     color: rgb(55, 55, 55);
+    min-width: 1000px;
 }
 .item1 {
     width: 9%;
@@ -203,8 +205,9 @@ img{
 }
 .tableitems {
     /* max-height: 400px;  */
-    overflow-y: auto;
+    /* overflow-y: auto; */
     height: 90%;
+    min-width: 1000px;
     /* overflow-y: scroll; */
 }
 .box {
@@ -303,7 +306,7 @@ img{
         
     }
     .hamimg {
-        width: 40px;
+        width: 30px;
     }
     .image {
         display: none;
@@ -316,10 +319,10 @@ img{
         width: 70px;
     }
 
-    .item6, 
+    /* .item6, 
     .item7 {
         display: none;
-    }
+    } */
     .item1 {
         width: 19%;
         
@@ -373,10 +376,10 @@ img{
     }
 }
 @media (max-width: 800px) {
-    .item6, 
+    /* .item6, 
     .item7 {
         display: none;
-    }
+    } */
     .item1 {
         width: 24%;
         
@@ -393,15 +396,15 @@ img{
         width: 24%;
         
     }
-    .item5 {
+    /* .item5 {
         display: none;
-    }
+    } */
 }
 @media (max-width: 540px) {
-    .item6, 
+    /* .item6, 
     .item7 {
         display: none;
-    }
+    } */
     .item1 {
         width: 24%;
         
@@ -410,7 +413,7 @@ img{
         width: 74%;
         
     }
-    .item3 {
+    /* .item3 {
         display: none;
         
     }
@@ -420,7 +423,7 @@ img{
     }
     .item5 {
         display: none;
-    }
+    } */
 }
 
 .searchbtn{
