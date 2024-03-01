@@ -1,8 +1,10 @@
-# React  + Vite  (<p align="right"> </a> <a href = "https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href = "https://vitejs.dev/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer"><img src = "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="50" height="50"/></a></p>)
+# React  + Vite  
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ### This Project is built using 
 *  React + Vite (react version - 18.2.0 ,Vite version - 5.1.4)
+*  *<p align="left"> </a> <a href = "https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href = "https://vitejs.dev/" target="_blank" rel="noreferrer" target="_blank" rel="noreferrer"><img src = "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="50" height="50"/></a></p>
 *  Postgre database (version - 16.2)
+*  <p align = "right> </a> <a href = "https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src = "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt = "Postgres" width="50" height="50"></a></p>
 ### first run the the backend code then this frontend
 *  Run - npm install 
 *  Then - npm run dev to start Vite
