@@ -11,8 +11,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### Video
 https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/d612f8fa-aece-47e5-8b51-b302e9de167f
 ### There are three pages in this Project
-* sign up / sign in page
-  ![Screenshot (6)](https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/e6e4e908-c4f1-4b13-9988-6a96ab43d47b.png)
+
 * sign up with your email id,password and username
   ![Screenshot (7)](https://github.com/vineetkumarg8/Task_Project_Frontend-main/assets/96251824/86a9e6d5-f4cb-455d-954d-0ba958819d99.png)
 * Then sign in with your credentials i.e email and password
